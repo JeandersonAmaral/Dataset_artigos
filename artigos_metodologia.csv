@@ -1,21 +1,21 @@
-Ano,Autores_País,Tipo_de_Estudo,Foco,Resultados_Principais
-2015,"Fitzgerald & Stol, UK",Revisão Sistemática,Tendências e roadmap em ESC,Apresenta visão geral do estado da arte e desafios para a Engenharia de Software Contínua
-2016,"Basili, EUA",Revisão,Engenharia Experimental,Debate histórico e futuro da Engenharia Experimental
-2017,"Lee et al., KR",Survey,Práticas Ágeis e DevOps,Avaliação do uso e desafios de práticas ágeis e DevOps em ambientes distribuídos
-2018,"Colomo-Palacios et al., ES",Estudo de Caso,Integração Contínua e Automação,Estudo sobre automação para acelerar processos de desenvolvimento
-2019,"Brown et al., CA",Revisão Sistemática,Integração Contínua,"Sistematiza tendências, ferramentas e desafios em integração contínua"
-2020,"Barcellos et al., BR",Estudo Teórico,Framework e Processos ESC,Proposta e detalhamento de um framework para Engenharia de Software Contínua
-2021,"Zhang et al., CN",Experimento,Avaliação de Integração Contínua,Análise experimental da eficácia de ferramentas e práticas de integração contínua
-2022,"Erthal et al., BR",Revisão Bibliográfica,Experimentação Contínua,Aborda diversidade metodológica e desafios na pesquisa experimental
-2023,"Azad et al., Multinacional",Revisão Sistemática,Fatores críticos em DevOps,Identificação e análise dos fatores que contribuem para o sucesso em DevOps
-2024,"Mathew et al., EUA",Estudo Empírico,Adoção de ML em DevOps,Estudo sobre impactos e desafios do uso de ML em práticas DevOps
-2024,"Sengul et al., EUA",Revisão Sistemática,Educação em Engenharia de Software,Explora a integração da IA na educação em engenharia de software
-2018,"Silva et al., BR",Estudo de Caso,Testes automatizados em CI/CD,Demonstra a implementação e benefícios de testes automáticos em pipelines contínuos
-2015,"Lwakatare et al., FI",Estudo de Caso,Capacidades e Desafios em DevOps,Explora práticas e barreiras na adoção do DevOps em empresas
-2019,"Forsgren et al., EUA",Estudo de Campo,Performance em DevOps,Pesquisa empírica correlacionando práticas DevOps com desempenho organizacional
-2017,"Zou et al., CN",Experimento,Deploy Contínuo com toggles,Avaliação experimental do uso de feature toggles para deploy contínuo
-2021,"Khalil et al., UK",Estudo de Caso,Automação de pipelines,Análise de automação para melhoria de eficiência em pipelines CI/CD
-2023,"Schermann et al., DE",Avaliação Empírica,Medidas de práticas DevOps,Estudo quantitativo sobre métricas para avaliação de práticas DevOps
-2025,"Oliveira et al., BR",Revisão Sistemática,Testes em Integração Contínua,Mapeamento de estratégias e ferramentas de testes em integração contínua
-2022,"Kalliamvakou et al., UK",Estudo Empírico,Qualidade de software com DevOps,Avaliação empírica da melhoria da qualidade via DevOps
-2016,"Fagerholm et al., FI",Revisão Sistemática,Experimentação Contínua,Discussão sobre métodos e práticas para apoio à experimentação contínua
+Ano,Autores,País,Tipo_de_Estudo,Foco,Resultados_Principais
+2015,Fitzgerald & Stol,UK,Revisão Sistemática,Tendências e roadmap em ESC,Apresenta visão geral do estado da arte e desafios para a Engenharia de Software Contínua
+2016,Basili,EUA,Revisão,Engenharia Experimental,Debate histórico e futuro da Engenharia Experimental
+2017,Lee et al.,KR,Survey,Práticas Ágeis e DevOps,Avaliação do uso e desafios de práticas ágeis e DevOps em ambientes distribuídos
+2018,Colomo-Palacios et al.,ES,Estudo de Caso,Integração Contínua e Automação,Estudo sobre automação para acelerar processos de desenvolvimento
+2019,Brown et al.,CA,Revisão Sistemática,Integração Contínua,"Sistematiza tendências, ferramentas e desafios em integração contínua"
+2020,Barcellos et al.,BR,Estudo Teórico,Framework e Processos ESC,Proposta e detalhamento de um framework para Engenharia de Software Contínua
+2021,Zhang et al.,CN,Experimento,Avaliação de Integração Contínua,Análise experimental da eficácia de ferramentas e práticas de integração contínua
+2022,Erthal et al.,BR,Revisão Bibliográfica,Experimentação Contínua,Aborda diversidade metodológica e desafios na pesquisa experimental
+2023,Azad et al.,Multinacional,Revisão Sistemática,Fatores críticos em DevOps,Identificação e análise dos fatores que contribuem para o sucesso em DevOps
+2024,Mathew et al.,EUA,Estudo Empírico,Adoção de ML em DevOps,Estudo sobre impactos e desafios do uso de ML em práticas DevOps
+2024,Sengul et al.,EUA,Revisão Sistemática,Educação em Engenharia de Software,Explora a integração da IA na educação em engenharia de software
+2018,Silva et al.,BR,Estudo de Caso,Testes automatizados em CI/CD,Demonstra a implementação e benefícios de testes automáticos em pipelines contínuos
+2015,Lwakatare et al.,FI,Estudo de Caso,Capacidades e Desafios em DevOps,Explora práticas e barreiras na adoção do DevOps em empresas
+2019,Forsgren et al.,EUA,Estudo de Campo,Performance em DevOps,Pesquisa empírica correlacionando práticas DevOps com desempenho organizacional
+2017,Zou et al.,CN,Experimento,Deploy Contínuo com toggles,Avaliação experimental do uso de feature toggles para deploy contínuo
+2021,Khalil et al.,UK,Estudo de Caso,Automação de pipelines,Análise de automação para melhoria de eficiência em pipelines CI/CD
+2023,Schermann et al.,DE,Avaliação Empírica,Medidas de práticas DevOps,Estudo quantitativo sobre métricas para avaliação de práticas DevOps
+2025,Oliveira et al.,BR,Revisão Sistemática,Testes em Integração Contínua,Mapeamento de estratégias e ferramentas de testes em integração contínua
+2022,Kalliamvakou et al.,UK,Estudo Empírico,Qualidade de software com DevOps,Avaliação empírica da melhoria da qualidade via DevOps
+2016,Fagerholm et al.,FI,Revisão Sistemática,Experimentação Contínua,Discussão sobre métodos e práticas para apoio à experimentação contínua
